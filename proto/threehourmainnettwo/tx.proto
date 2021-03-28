@@ -1,0 +1,13 @@
+syntax = "proto3";
+package faddat.threehourmainnettwo.threehourmainnettwo;
+
+// this line is used by starport scaffolding # proto/tx/import
+
+option go_package = "github.com/faddat/threehourmainnettwo/x/threehourmainnettwo/types";
+
+// Msg defines the Msg service.
+service Msg {
+    // this line is used by starport scaffolding # proto/tx/rpc
+}
+
+// this line is used by starport scaffolding # proto/tx/message
